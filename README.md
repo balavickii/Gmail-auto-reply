@@ -21,6 +21,9 @@ Before running the script, make sure you have the following:
    ```bash
    git clone https://github.com/your-username/send-reply-using-gmail-api.git
    cd send-reply-using-gmail-api
-  2. **Clone the repository:**
-    bash
+  1. **Install dependencies**
+   
+   ```bash
+   npm install
+
 
